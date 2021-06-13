@@ -1,3 +1,4 @@
+// <script src="jiagra.js"></script>
 (function(w, d, undefined)
 {
 	// are degrading script tags enabled by default?
